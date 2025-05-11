@@ -4,7 +4,7 @@ html {
 }
 /* h1要素の文字色、背景色、文字サイズを宣言 */
 h1 {
-    color white;
+    color: white;
     background-color: blue;
     font-size: 1rem;
 }
